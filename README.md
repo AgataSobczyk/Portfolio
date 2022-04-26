@@ -37,6 +37,8 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
+* Tester Oprogramowania
+* Początki w IT / Początkujący programiści
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR 
 https://docs.google.com/spreadsheets/d/1eoB7mlQgIKM1plL_1IDgmQrRXGt5ivJp/edit?usp=sharing&ouid=107232966400895479245&rtpof=true&sd=true
