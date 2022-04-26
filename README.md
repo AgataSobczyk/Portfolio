@@ -24,6 +24,10 @@ predisposition.
 Szkolenie Indywidualne tester manualny 05.04.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Tester Oprogramowania - Kużnia testerów - udemy
+* Selenium IDE - Kompletny kurs od podstaw [2021] - Rode Learning- udemy
+* Kurs SQL - Pasja Informatyki
+* Kurs Html i Css - Pasja Informatyki
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
