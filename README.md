@@ -28,8 +28,6 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * Selenium IDE - Kompletny kurs od podstaw [2021] - Rode Learning- udemy
 * Kurs SQL - Pasja Informatyki
 * Kurs Html i Css - Pasja Informatyki
-##TECHNICAL BOOKS READ
-*Certyfikowany tester ISTQB. Poziom podstawowY Roman Adam , Stapp Lucjan
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
