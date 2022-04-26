@@ -39,11 +39,12 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * Testowanie oprogramowania
 * Tester Oprogramowania
 * Początki w IT / Początkujący programiści
+
 ## MY TEST CASE EXAMPLES
 
 https://docs.google.com/spreadsheets/d/1eoB7mlQgIKM1plL_1IDgmQrRXGt5ivJp/edit?usp=sharing&ouid=107232966400895479245&rtpof=true&sd=true
 ## MY BUGS
-## MY BUGS FOR 
+
 https://drive.google.com/file/d/1-BQrpUkF1ZuSqW9TrlMmjlsN1lI_l5mc/view?usp=sharing
 
 ## MY REPORT
