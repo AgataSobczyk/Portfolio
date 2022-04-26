@@ -1,6 +1,15 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA
+I am a junior software tester. I have well-developed interpersonal skills.
+I am communicative. I like working with people, both on the customer side and on the
+team.
+I am an attentive listener, I can
+build a multidimensional perspective,
+but in the same time I pay attention to
+details. I am looking for a job where I can
+spread my wings and use my
+predisposition.
+
 ## TOOLS
 * Jira
 * TestLink
