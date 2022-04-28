@@ -21,7 +21,7 @@ predisposition.
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 23.04.2022
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * Tester Oprogramowania - Kużnia testerów - udemy
