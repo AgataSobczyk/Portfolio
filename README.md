@@ -14,6 +14,7 @@ predisposition.
 * Jira
 * TestLink
 * GitHub
+* DevTools
 ## TECH SKIILS
 * Software testing
 * Creating test cases
